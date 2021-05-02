@@ -1,0 +1,15 @@
+{
+  "name": "test-custom-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "custom-module": "git+ssh://git@github.com/tiago123456789/custom-module.git#1.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
